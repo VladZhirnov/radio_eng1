@@ -24,6 +24,7 @@
     <ProjectGuid>{8a9542e0-2732-46ea-8a21-0f343c9dc5e7}</ProjectGuid>
     <RootNamespace>radioeng1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>radio_eng1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
